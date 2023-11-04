@@ -1,0 +1,16 @@
+2023-11-04 18:15:46,561 INFO c.e.d.c.UserController [main] [USER_CREATE][SUCCESS]:test is successfully created
+2023-11-04 18:15:46,566 ERROR c.e.d.c.UserController [main] [FIND_USER][FAILED]:notAName" not found
+2023-11-04 18:15:46,568 ERROR c.e.d.c.UserController [main] [USER_CREATE][FAILED]: Password and Confirm Password does not match.
+2023-11-04 18:15:46,568 ERROR c.e.d.c.UserController [main] [USER_CREATE][FAILED]: Your password must be at lest 8 characters long.
+2023-11-04 18:15:46,595 INFO c.e.d.c.OrderController [main] [ORDER_CREATE_SUCCESS]: Order requests successes for user "test"
+2023-11-04 18:15:46,597 INFO c.e.d.c.OrderController [main] [ORDER_HISTORY_SUCCESS]: Order history successes for user "test"
+2023-11-04 18:15:46,598 ERROR c.e.d.c.OrderController [main] [ORDER_HISTORY_FAILED][USER_NOT_FOUND]: User "test" cannot be found
+2023-11-04 18:15:46,599 ERROR c.e.d.c.OrderController [main] [ORDER_CREATE_FAILED][USER_NOT_FOUND]: User "test" cannot be found
+2023-11-04 18:16:26,477 INFO c.e.d.c.UserController [main] [USER_CREATE][SUCCESS]:test is successfully created
+2023-11-04 18:16:26,482 ERROR c.e.d.c.UserController [main] [FIND_USER][FAILED]:notAName" not found
+2023-11-04 18:16:26,485 ERROR c.e.d.c.UserController [main] [USER_CREATE][FAILED]: Password and Confirm Password does not match.
+2023-11-04 18:16:26,485 ERROR c.e.d.c.UserController [main] [USER_CREATE][FAILED]: Your password must be at lest 8 characters long.
+2023-11-04 18:16:26,528 INFO c.e.d.c.OrderController [main] [ORDER_CREATE_SUCCESS]: Order requests successes for user "test"
+2023-11-04 18:16:26,530 INFO c.e.d.c.OrderController [main] [ORDER_HISTORY_SUCCESS]: Order history successes for user "test"
+2023-11-04 18:16:26,532 ERROR c.e.d.c.OrderController [main] [ORDER_HISTORY_FAILED][USER_NOT_FOUND]: User "test" cannot be found
+2023-11-04 18:16:26,534 ERROR c.e.d.c.OrderController [main] [ORDER_CREATE_FAILED][USER_NOT_FOUND]: User "test" cannot be found
